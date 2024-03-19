@@ -1,5 +1,5 @@
 # Signature Generator
-A VueJs Single Page Application to generate email signature for digitalturbine network members.
+A VueJs Single Page Application to generate email signature for START Berlin members.
 
 ## Project setup
 ```
